@@ -8,4 +8,6 @@ Aside from the edits I also left comments where the code was modified.
 
 I hope this hits the acceptance criteria and would love to hear some feedback if possible. I know you TA's are super busy!
 
+Example link: https://bsayavong.github.io/scaling-carnival/
+
 ![my screenshot](./assets/screenshot.png)
